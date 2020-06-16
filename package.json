@@ -1,7 +1,7 @@
 {
-  "name": "InitAction.github.io",
+  "name": "algorithm_roadmap.github.io",
   "version": "1.0.0",
-  "repository": "git@github.com:InitAction/InitAction.github.io.git",
+  "repository": "git@github.com:InitAction/algorithm_roadmap.github.io",
   "license": "MIT",
   "scripts": {
     "dev": "vuepress dev src",
@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "vuepress": "1.0.0-alpha.32",
-    "vuepress-theme-cute": "2.0.8"
+    "vuepress-theme-cute": "2.0.12"
   },
   "resolutions": {
     "@vuepress/core": "1.0.0-alpha.32",
