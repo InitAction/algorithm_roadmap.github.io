@@ -2,6 +2,7 @@ module.exports = {
   title: 'InitAction',
   theme: 'cute',
   dest: './dist',
+  base: '/algorithm_roadmap.github.io/',
   themeConfig: {
     home: 'InitAction',
     nav: [
