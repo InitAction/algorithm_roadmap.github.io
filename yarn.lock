@@ -729,10 +729,10 @@
   resolved "https://registry.npm.taobao.org/@types/node/download/@types/node-14.0.13.tgz?cache=0&sync_timestamp=1591734944983&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fnode%2Fdownload%2F%40types%2Fnode-14.0.13.tgz#ee1128e881b874c371374c1f72201893616417c9"
   integrity sha1-7hEo6IG4dMNxN0wfciAYk2FkF8k=
 
-"@vant/icons@1.2.1":
-  version "1.2.1"
-  resolved "https://registry.npm.taobao.org/@vant/icons/download/@vant/icons-1.2.1.tgz#309fecb97a4989866f045ce676b545c454701c8f"
-  integrity sha1-MJ/suXpJiYZvBFzmdrVFxFRwHI8=
+"@vant/icons@1.2.0":
+  version "1.2.0"
+  resolved "https://registry.npmjs.org/@vant/icons/-/icons-1.2.0.tgz#ed31f367185704fa2ef9b437a0c8d3ee5e4f5f58"
+  integrity sha512-japcEMXv5BWyWNwjL52WX9pdMWB2wrZtvF0p0CwhbKJyoz/WxuvHVsNjzbeCtkBlofa+0txfJTt22qyz5BABaA==
 
 "@vue/babel-helper-vue-jsx-merge-props@^1.0.0":
   version "1.0.0"
@@ -7182,13 +7182,13 @@ validate-npm-package-license@^3.0.1:
     spdx-correct "^3.0.0"
     spdx-expression-parse "^3.0.0"
 
-vant@^2.4.2:
-  version "2.8.6"
-  resolved "https://registry.npm.taobao.org/vant/download/vant-2.8.6.tgz?cache=0&sync_timestamp=1592037477483&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fvant%2Fdownload%2Fvant-2.8.6.tgz#83ffd70dd6fbf8c3d80fbd6f43f38311c26542ef"
-  integrity sha1-g//XDdb7+MPYD71vQ/ODEcJlQu8=
+vant@2.4.2:
+  version "2.4.2"
+  resolved "https://registry.npmjs.org/vant/-/vant-2.4.2.tgz#f1c4b8b80d1dc2bf928e9a28f5f66338bc200561"
+  integrity sha512-AeYYUSWSGR6Cmc0dTMo8D2slO4MIsAxZzTptlafsCstsXxI0O1Y2k1Vn96qS9CS4AwM8qbLW1gksHWB91jYmgg==
   dependencies:
     "@babel/runtime" "7.x"
-    "@vant/icons" "1.2.1"
+    "@vant/icons" "1.2.0"
     "@vue/babel-helper-vue-jsx-merge-props" "^1.0.0"
     vue-lazyload "1.2.3"
 
@@ -7309,10 +7309,10 @@ vuepress-plugin-smooth-scroll@^0.0.3:
   dependencies:
     smoothscroll-polyfill "^0.4.3"
 
-vuepress-theme-cute@2.0.12:
-  version "2.0.12"
-  resolved "https://registry.npmjs.org/vuepress-theme-cute/-/vuepress-theme-cute-2.0.12.tgz#4681f17bbbf2db1b5cb1e8e167a4c47c3462744d"
-  integrity sha512-Bl5LNIw2ULhgGeBl4/D3k1XXeJEybSGMF6v+XovO+8OsJH4MJDcyw41dvcZ8vBBoY87NtmeprWsydPjkBPWuMw==
+vuepress-theme-cute@2.0.13:
+  version "2.0.13"
+  resolved "https://registry.npmjs.org/vuepress-theme-cute/-/vuepress-theme-cute-2.0.13.tgz#d2e773841b3ef8d75dda434e5a86d267caeb7b2e"
+  integrity sha512-AZAFP0GUTLRqBIDMrOcpooIcwSjWXRdgRaBBnzBTEj+2+4ocLP453mn9s3lyn2U7axMagCqt34eJbBMwqfq6Dg==
   dependencies:
     "@vuepress/plugin-blog" "1.0.0-alpha.30"
     "@vuepress/plugin-pagination" "1.0.0-alpha.30"
@@ -7320,7 +7320,7 @@ vuepress-theme-cute@2.0.12:
     date-fns "^1.30.1"
     html2canvas "^1.0.0-rc.5"
     qrcode.vue "^1.7.0"
-    vant "^2.4.2"
+    vant "2.4.2"
 
 vuepress@1.0.0-alpha.32:
   version "1.0.0-alpha.32"
