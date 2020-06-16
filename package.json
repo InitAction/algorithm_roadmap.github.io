@@ -9,6 +9,7 @@
   },
   "dependencies": {
     "vuepress": "1.0.0-alpha.32",
+    "vuepress-plugin-mathjax": "^1.2.8",
     "vuepress-theme-cute": "2.0.13"
   },
   "resolutions": {

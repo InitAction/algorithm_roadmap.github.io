@@ -4,7 +4,7 @@ module.exports = {
   dest: './dist',
   base: '/algorithm_roadmap.github.io/',
   themeConfig: {
-    home: 'InitAction',
+    home: 'algorithm_roadmap',
     nav: [
       {
         text: 'Blog',
@@ -16,7 +16,7 @@ module.exports = {
       }
     ],
     copyright: {
-      name: 'InitAction'
+      name: 'algorithm_roadmap'
     },
     sharePlatforms: ['weibo', 'twitter', 'wechat', 'download']
   },
@@ -25,10 +25,19 @@ module.exports = {
       '@vuepress/pwa', {
         serviceWorker: true,
         updatePopup: {
-          message: "InitAction 发布了新内容啦 🤓",
+          message: "algorithm_roadmap 发布了新内容啦 🤓",
           buttonText: "刷新"
         }
       }
+    ],
+    [
+      'vuepress-plugin-mathjax',
+      {
+        target: 'svg',
+        macros: {
+          '*': '\\times',
+        },
+      },
     ],
   ]
 }
