@@ -1,0 +1,19 @@
+{
+  "name": "InitAction.github.io",
+  "version": "1.0.0",
+  "repository": "git@github.com:InitAction/InitAction.github.io.git",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "dependencies": {
+    "vuepress": "1.0.0-alpha.32",
+    "vuepress-theme-cute": "2.0.8"
+  },
+  "resolutions": {
+    "@vuepress/core": "1.0.0-alpha.32",
+    "@vuepress/plugin-blog": "1.0.0-alpha.30",
+    "@vuepress/plugin-pagination": "1.0.0-alpha.30"
+  }
+}
