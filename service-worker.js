@@ -21,15 +21,15 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
 self.__precacheManifest = [
   {
     "url": "2020/06/16/helloworld/index.html",
-    "revision": "d60ff4a92258ba425e68f37f7219aa54"
+    "revision": "362392a17ac16fd296f99772f43f1c17"
   },
   {
     "url": "404.html",
-    "revision": "133acd8763ccd43c7af6973f1be492a3"
+    "revision": "cecbee5070d562b864069d9deb636af4"
   },
   {
     "url": "about.html",
-    "revision": "d286a70952dcbb8b117b027951ae8a40"
+    "revision": "b6779f7c16919128b79a02632611d3bf"
   },
   {
     "url": "assets/css/0.styles.f2a50273.css",
@@ -72,20 +72,20 @@ self.__precacheManifest = [
     "revision": "8658bd1ea7f14b514ffb7de73dd1ece0"
   },
   {
-    "url": "assets/js/app.f550f256.js",
-    "revision": "251bb0b787890615b20481912f88dd1b"
+    "url": "assets/js/app.c8be578f.js",
+    "revision": "2428be891db3266ba833a1157c05b7b9"
   },
   {
     "url": "category/index.html",
-    "revision": "f9e640d3ea3e665a346e59fa0854c428"
+    "revision": "771a7f990817e591b8df8340444ca4c0"
   },
   {
     "url": "index.html",
-    "revision": "dd5cef37974066d7c46c48c3b84aa638"
+    "revision": "31526404ef7993ba8dabf304cf18532e"
   },
   {
     "url": "tag/index.html",
-    "revision": "49f78561474f2380467ee802f70a48e6"
+    "revision": "6a28d913cef37c0233698d2a8805696a"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
