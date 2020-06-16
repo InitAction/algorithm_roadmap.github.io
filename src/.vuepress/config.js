@@ -8,11 +8,11 @@ module.exports = {
     nav: [
       {
         text: 'Blog',
-        link: '/'
+        link: '/initaction.github.io'
       },
       {
         text: 'About',
-        link: '/about.html'
+        link: '/algorithm_roadmap.github.io/about.html'
       }
     ],
     copyright: {
