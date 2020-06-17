@@ -1,6 +1,11 @@
 ## About me
 
 - 非著名互联网公司非著名算法工程师
+
 - 图像算法、广告算法
+
+- [知乎]: https://www.zhihu.com/people/fjhjava
+
+  
 
 
