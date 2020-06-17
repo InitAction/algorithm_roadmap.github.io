@@ -20,16 +20,16 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
  */
 self.__precacheManifest = [
   {
-    "url": "2020/06/16/helloworld/index.html",
-    "revision": "ba8daac9cfd11c690650ef419cd8e6b7"
+    "url": "1970/01/01/how-to-read-paper/index.html",
+    "revision": "7e06fe8f7dfd4d6d32de76198ada1eaa"
   },
   {
     "url": "404.html",
-    "revision": "bfbbcf3255b29f261f36de74c72f08db"
+    "revision": "23ab152214e68052d0e761f9c323294f"
   },
   {
     "url": "about.html",
-    "revision": "441a356dcf6f84e1be83b8dde2c48fbf"
+    "revision": "3a1b159ae50a9044a58cf43bedfa6a19"
   },
   {
     "url": "assets/css/0.styles.02d5e74b.css",
@@ -64,8 +64,8 @@ self.__precacheManifest = [
     "revision": "57339a5ac8b57d9436250396e8c116b9"
   },
   {
-    "url": "assets/js/7.bfef7ec7.js",
-    "revision": "45e00a42eca926e053dba3e74decf3d0"
+    "url": "assets/js/7.9cf37d06.js",
+    "revision": "83e8e8fb3fb59e1b4611bbf29165969f"
   },
   {
     "url": "assets/js/8.60af9ab8.js",
@@ -76,20 +76,20 @@ self.__precacheManifest = [
     "revision": "2a4f5c77545b27f0544410998a347d34"
   },
   {
-    "url": "assets/js/app.a85cedfb.js",
-    "revision": "36a90379b02ea2fa95663ad4b2eec3b9"
+    "url": "assets/js/app.8dea7ba7.js",
+    "revision": "639189114ace05efe233bff1a714f42d"
   },
   {
     "url": "category/index.html",
-    "revision": "1ff9981f6806a148e1734660d51cd0f4"
+    "revision": "a6f4adc0ce64c236bd963494c2d7f346"
   },
   {
     "url": "index.html",
-    "revision": "ba58bc4ae5dbd305fb417509249995ce"
+    "revision": "38447cfd65bdcaf948f7e0451f901492"
   },
   {
     "url": "tag/index.html",
-    "revision": "da2fd32d6f9eedbfeb987d8e6ba598be"
+    "revision": "4a4a87e189c5842a4c659e0d672a6963"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
