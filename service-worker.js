@@ -20,16 +20,16 @@ importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox
  */
 self.__precacheManifest = [
   {
-    "url": "1970/01/01/how-to-read-paper/index.html",
-    "revision": "7e06fe8f7dfd4d6d32de76198ada1eaa"
+    "url": "2020/06/16/how-to-read-paper/index.html",
+    "revision": "47cea72a11c79b98dea9303e40897d57"
   },
   {
     "url": "404.html",
-    "revision": "23ab152214e68052d0e761f9c323294f"
+    "revision": "472d1ee7201d8b24645b4977bf8aa8ff"
   },
   {
     "url": "about.html",
-    "revision": "3a1b159ae50a9044a58cf43bedfa6a19"
+    "revision": "7f0bdccfb7f182a2b92a73a5b3128643"
   },
   {
     "url": "assets/css/0.styles.02d5e74b.css",
@@ -64,32 +64,40 @@ self.__precacheManifest = [
     "revision": "57339a5ac8b57d9436250396e8c116b9"
   },
   {
-    "url": "assets/js/7.9cf37d06.js",
-    "revision": "83e8e8fb3fb59e1b4611bbf29165969f"
+    "url": "assets/js/7.b14ca48a.js",
+    "revision": "478cfa0c28e71dbbf21125a9e8096d99"
   },
   {
-    "url": "assets/js/8.60af9ab8.js",
-    "revision": "85a6aec65c5706e549560c1cb4cc0302"
+    "url": "assets/js/8.ff8c9d2e.js",
+    "revision": "c7bf7aac7fd2eb317716f2c1ebfdec84"
   },
   {
     "url": "assets/js/9.43bf5de7.js",
     "revision": "2a4f5c77545b27f0544410998a347d34"
   },
   {
-    "url": "assets/js/app.8dea7ba7.js",
-    "revision": "639189114ace05efe233bff1a714f42d"
+    "url": "assets/js/app.c762986a.js",
+    "revision": "ce55957ac6e8e8123caaed35f91788cd"
   },
   {
     "url": "category/index.html",
-    "revision": "a6f4adc0ce64c236bd963494c2d7f346"
+    "revision": "2b076247a887c3ff50fa205e404afd56"
   },
   {
     "url": "index.html",
-    "revision": "38447cfd65bdcaf948f7e0451f901492"
+    "revision": "c8a3a5471ff91f79023be22e171fe498"
   },
   {
     "url": "tag/index.html",
-    "revision": "4a4a87e189c5842a4c659e0d672a6963"
+    "revision": "d2f9df0503cbb4f240226a3e490b2a15"
+  },
+  {
+    "url": "tag/Method.html",
+    "revision": "748a36f0b5ffe3645b7af9d3c7e60b4d"
+  },
+  {
+    "url": "tag/Paper.html",
+    "revision": "0220d3a6ad9c0ea6dabb639d4bcc636f"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
