@@ -2,17 +2,17 @@ module.exports = {
   title: 'InitAction',
   theme: 'cute',
   dest: './dist',
-  base: '/algorithm_roadmap.github.io/',
+  base: '/',
   themeConfig: {
     home: 'algorithm_roadmap',
     nav: [
       {
         text: 'Blog',
-        link: '/initaction.github.io'
+        link: '/'
       },
       {
         text: 'About',
-        link: '/algorithm_roadmap.github.io/about.html'
+        link: '/about.html'
       }
     ],
     copyright: {
