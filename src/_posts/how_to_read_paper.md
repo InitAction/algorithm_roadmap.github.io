@@ -1,9 +1,9 @@
 ---
 title: How to Read a Paper
-date: 2020-06-16 20:38:17     //发表日期
-updated: 2020-06-16 21:58:03  //更新日期
-categories: Paper              //文章分类
-tags: [Method,Paper]             //文章标签
+date: 2020-06-16 20:38:17     
+updated: 2020-06-16 21:58:03  
+categories: Paper             
+tags: [Method,Paper]    
 
 ---
 
